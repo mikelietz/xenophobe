@@ -29,16 +29,6 @@ class Xenophobe extends Plugin
 
 		return $allow;
 	}
-	
-
-	/**
-	 * Add update beacon support
-	 **/
-	public function action_update_check()
-	{
-	 	Update::add( 'Xenophobe', 'b3ce7d21-673d-4e4d-9e2f-b63528a1d744', $this->info->version );
-	}
-
 }
 
 ?>
