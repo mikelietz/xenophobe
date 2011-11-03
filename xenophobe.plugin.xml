@@ -2,6 +2,7 @@
 <pluggable type="plugin">
 	<name>Xenophobe</name>
 	<url>http://habariproject.org/</url>
+	<downloadurl>http://habariproject.org/dist/plugins/xenophobe/xenophobe-trunk.zip</downloadurl>
 	<author url="http://habariproject.org/">The Habari Community</author>
 	<version>1.0</version>
 	<description><![CDATA[Discards comments containing Unicode characters.]]></description>
