@@ -6,7 +6,7 @@
 	<author url="http://habariproject.org/">The Habari Community</author>
 	<version>1.0</version>
 	<description><![CDATA[Discards comments containing Unicode characters.]]></description>
-	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License, version 2.0</license>
 	<guid>b3ce7d21-673d-4e4d-9e2f-b63528a1d744</guid>
 	<help>
 		<value><![CDATA[Use this plugin to prevent the use of unicode characters in your comments. Any comments that include unicode characters will be silently discarded without any warning to the user or the site administrator.]]></value>
